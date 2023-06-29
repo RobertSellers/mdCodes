@@ -1,4 +1,4 @@
-{
+module.exports = {
   "iso_associationType": {
     "codelistType": "staticList",
     "codelistName": "iso_associationType",
@@ -9919,4 +9919,4 @@
       }
     ]
   }
-}
+};
