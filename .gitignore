@@ -24,4 +24,3 @@ dev
 *.a
 mkmf.log
 node_modules
-resources/js
